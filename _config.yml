@@ -23,6 +23,24 @@ sass:
   style: :compressed
 ganalytics: G-VL29CY397R
 
+- scope:
+    path: _posts/airdrop
+    type: posts
+  values:
+    layout: post
+    category: Airdrop
+    csymb: airdrop
+    permalink: "/airdrop/:title"
+    image: twitter-card.png
+    author: wahyu243
+    avatar: /asset/image/wahyu243.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Airdrop"
+        url: /airdrop
+        
 # Authors
 authors:
   wahyu243:

@@ -3,7 +3,7 @@ layout: post
 title:  "Guru Penggerak: Membangun Pendidikan yang Lebih Baik"
 author: wahyu243
 categories: [ Pendidikan, Definisi ]
-image: assets/images/kurikulum-merdeka.jpg
+image: assets/images/guru-penggerak.jpg
 ---
 
 Berikut adalah contoh artikel SEO-friendly tentang "Guru Penggerak" dengan struktur lengkap:

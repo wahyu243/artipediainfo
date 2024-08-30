@@ -6,10 +6,6 @@ categories: [ Pendidikan, Definisi ]
 image: assets/images/kurikulum-merdeka.jpg
 ---
 
-Berikut adalah contoh artikel SEO-friendly tentang "Guru Penggerak" dengan struktur lengkap:
-
----
-
 **Guru Penggerak: Membangun Pendidikan yang Lebih Baik**
 
 Guru Penggerak adalah inisiatif penting yang bertujuan untuk mengubah pendidikan di Indonesia. Program ini berfokus pada pengembangan kapasitas guru untuk menjadi pemimpin pendidikan yang inovatif dan inspiratif. Melalui artikel ini, kita akan membahas secara mendalam mengenai Guru Penggerak, manfaatnya, dan bagaimana program ini berkontribusi pada peningkatan kualitas pendidikan.

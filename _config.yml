@@ -1,6 +1,7 @@
 title: "ArtiPedia.Info"
 email: wahyu243@gmail.com
 timezone: UTC
+siteurl: "http://artipedia.info/"
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'

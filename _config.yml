@@ -1,15 +1,16 @@
 title: "ArtiPedia.Info"
+description: "Artipedia.info adalah sumber informasi lengkap tentang definisi, tutorial, pendidikan, CPNS, airdrop, dan lebih banyak lagi. Temukan pengetahuan terbaru dan panduan praktis di dunia digital"
 email: wahyu243@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Wahyu243
 paginate: 30
 disqus: 'artipedia'
-locale: en_us
-lang: en_us
+locale: id_id
+lang: id_id
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1

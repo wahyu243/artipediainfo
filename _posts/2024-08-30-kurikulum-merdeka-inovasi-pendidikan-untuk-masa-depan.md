@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kurikulum Merdeka: Inovasi Pendidikan untuk Masa Depan"
-author: wahyu243
+author: Wahyu243
 categories: [ Pendidikan, Definisi ]
 image: assets/images/kurikulum-merdeka.jpg
 ---

@@ -5,7 +5,6 @@ timezone: UTC
 baseurl: ""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Wahyu243
 paginate: 30
 disqus: 'artipedia'
 locale: id_id
@@ -29,7 +28,79 @@ collections:
   posts:
     permalink: "/:categories/:title"
     output: true
-        
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    image: twitter-card.png
+    author: wahyu243
+    avatar: /asset/images/wahyu243.jpg
+- scope:
+    path: _posts/artikel
+    type: posts
+  values:
+    layout: post
+    category: artikel
+    permalink: "/artikel/:title"
+    image: twitter-card.png
+    author: wahyu
+    avatar: /asset/images/wahyu243.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Artikel"
+        url: /artikel
+- scope:
+    path: _posts/tutorial
+    type: posts
+  values:
+    layout: post
+    category: tutorial
+    permalink: "/tutorial/:title"
+    image: twitter-card.png
+    author: wahyu
+    avatar: /asset/images/wahyu243.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Tutorial"
+        url: /tutorial
+- scope:
+    path: _posts/airdrop
+    type: posts
+  values:
+    layout: post
+    category: airdrop
+    permalink: "/airdrop/:title"
+    image: twitter-card.png
+    author: wahyu
+    avatar: /asset/images/wahyu243.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Airdrop"
+        url: /airdrop
+- scope:
+    path: _posts/berita
+    type: posts
+  values:
+    layout: post
+    category: berita
+    permalink: "/berita/:title"
+    image: twitter-card.png
+    author: wahyu
+    avatar: /asset/images/wahyu243.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Berita"
+        url: /berita
 # Authors
 authors:
   wahyu243:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Panduan Lengkap Menggunakan PMM Platform Merdeka Mengajar"
 author: wahyu243
-categories: [ Pendidikan, Definisi, Panduan ]
+tags: [ Pendidikan, Definisi, Panduan ]
 image: assets/images/pmm-platform-merdeka-mengajar.jpg
 ---
 

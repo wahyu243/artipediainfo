@@ -4,11 +4,17 @@ topmenu:
 - title: Home
   url: ""
 
-- title: About
-  url: "about/"
+- title: Artikel
+  url: "artikeal/"
 
-- title: Contact
-  url: "contact/"
+- title: Berita
+  url: "berita/"
+
+- title: Tutorial
+  url: "tutorial/"
+
+- title: Airdrop
+  url: "airdrop/"
 
 
 # Footer Menu

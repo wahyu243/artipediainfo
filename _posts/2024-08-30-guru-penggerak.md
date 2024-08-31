@@ -2,7 +2,7 @@
 layout: post
 title:  "Guru Penggerak: Membangun Pendidikan yang Lebih Baik"
 author: wahyu243
-categories: [ Pendidikan, Definisi ]
+tags: [ Pendidikan, Definisi ]
 image: assets/images/guru-penggerak.jpg
 ---
 

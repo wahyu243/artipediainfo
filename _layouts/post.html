@@ -42,7 +42,9 @@ post_class: post-template
 
 			<!-- Post Content -->
 			<div class="article-post serif-font">
+				<div id="toc">
 				{% include toc.html html=content %}
+				</div>
 				{{content}}
                 <div class="clearfix"></div>
 			</div>

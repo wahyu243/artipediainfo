@@ -613,4 +613,13 @@ span.navigation:before {
     transition: all.3s;
     opacity:.8;
 }
+#toc h2 {
+    padding-top: 0;
+
+    border-bottom: 2px solid #F0F4F8;
+    padding-top: 1rem;
+    padding-bottom: 0.825rem;
+    font-size: 25.6px;
+    font-size: 1.6rem;
+}
 #toc{background:#4098D7;background:linear-gradient(45deg, #724BB7 0%, #4098D7 100%);background-size:cover;color:#fff;padding:1rem;margin:0 -1rem 2rem}#toc #table-of-contents{font-weight:600;border-bottom:0;padding-bottom:0}#toc h2{padding-top:0}#toc ul,#toc ol{margin-bottom:0}#toc ul ul,#toc ol ol,#toc ul ol,#toc ol ul{margin:10px 0 10px}#toc li{margin-bottom:10px}#toc li a{color:inherit;text-decoration:none}#toc li a:hover{border-bottom:1px dotted}#toc li:last-child{margin-bottom:0}@media screen and (min-width: 45rem){#toc{padding:2rem;margin:0 -2rem 2rem}}

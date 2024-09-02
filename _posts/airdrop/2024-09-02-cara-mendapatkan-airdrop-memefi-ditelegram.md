@@ -2,7 +2,7 @@
 layout: post
 title:  "Panduan Lengkap: Cara Mendapatkan MEMEFI Coin dengan Airdrop Tap To Earn di Telegram"
 author: wahyu243
-tags: [ Pendidikan, Definisi ]
+tags: [ Koin, Airdrop, Blockchain, Games ]
 image: assets/images/memefi.jpg
 ---
 

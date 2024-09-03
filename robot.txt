@@ -4,4 +4,4 @@ Disallow:
 User-agent: *
 Allow: /
 
-Sitemap: https://artipedia.info/sitemap.xml
+Sitemap: https://artipedia.info/site-map.xml

@@ -22,7 +22,7 @@ Jika Anda belum memiliki Telegram, unduh dan pasang aplikasi ini dari App Store 
 
 #### **2. Bergabung dengan Grup atau Channel Resmi MEMEFI Coin**
 
-Klik [MEMEFI](https://t.me/memefi_coin_bot/main?startapp=r_df6d262826 "Memefi Bot") Coin di Telegram. Pastikan Anda bergabung dengan grup yang benar dan resmi untuk menghindari penipuan. Biasanya, Anda bisa menemukan tautan ke grup ini di situs web resmi MEMEFI Coin atau melalui media sosial resmi mereka.
+Klik [MEMEFI](https://t.me/memefi_coin_bot/main?startapp=r_df6d262826 "Memefi Bot APP") Coin di Telegram. Pastikan Anda bergabung dengan grup yang benar dan resmi untuk menghindari penipuan. Biasanya, Anda bisa menemukan tautan ke grup ini di situs web resmi MEMEFI Coin atau melalui media sosial resmi mereka.
 
 #### **3. Selesaikan Task untuk mendapatkan koin**
 

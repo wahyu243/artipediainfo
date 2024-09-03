@@ -133,3 +133,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+- jekyll-avatar
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-seo-tag

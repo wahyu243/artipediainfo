@@ -25,7 +25,7 @@ Tomarket telah merencanakan distribusi **500 miliar token $TOMATO** dengan aloka
 
 ### Bagaimana Cara Berpartisipasi dalam Airdrop Tomarket?
 Ingin ikut serta dan mendapatkan token $TOMATO? Berikut langkah-langkah yang perlu Anda lakukan:
-1. **Daftar sekarang melalui [TOMATO](#) dan mulai perjalanan Anda di Tomarket!**
+1. **Daftar sekarang melalui [TOMATO](https://t.me/Tomarket_ai_bot/app?startapp=00004Rog "Tomarket APP") dan mulai perjalanan Anda di Tomarket!**
 2. **Hubungkan Bitget Wallet Anda ke Akun Tomarket**: Pastikan Anda memiliki Bitget Wallet dan menghubungkannya ke akun Tomarket. 
 3. **Miliki Saldo Minimal $1**: Pastikan saldo minimal $1 dalam bentuk aset apa pun di Bitget Wallet Anda untuk memenuhi syarat.
 4. **Tambahkan Emoji Tomat (🍅) ke Nama Pengguna Telegram Anda**: Sebagai bagian dari komunitas Tomarket, pastikan untuk menyertakan emoji tomat di nama pengguna Telegram Anda.

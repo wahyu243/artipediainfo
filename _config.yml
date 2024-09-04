@@ -34,9 +34,10 @@ defaults:
     type: posts
   values:
     layout: post
-    image: twitter-card.png
+    image: /asset/images/2.jpg
     author: wahyu243
     avatar: /asset/images/wahyu243.jpg
+    seo_description_max_words: 200
 - scope:
     path: _posts/artikel
     type: posts

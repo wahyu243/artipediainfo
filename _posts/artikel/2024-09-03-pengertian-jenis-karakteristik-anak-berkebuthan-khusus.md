@@ -3,7 +3,7 @@ layout: post
 title:  "Anak Berkebutuhan Khusus (ABK): Pengertian, Jenis, dan Karakteristik"
 author: wahyu243
 tags: [ Pendidikan, Definisi, ABK ]
-image: assets/images/anak-berkebutuhan-khusus.jpg
+image: assets/images/anak-berkebuthan-khusus.jpg
 ---
 
 ## Anak Berkebutuhan Khusus (ABK): Pengertian, Jenis, dan Karakteristik
